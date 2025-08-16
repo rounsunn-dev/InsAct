@@ -32,3 +32,6 @@ Thumbs.db
 data/raw/
 *.log
 .cache/
+
+# Internal handoff documents (not for public repo)
+handoffs/
