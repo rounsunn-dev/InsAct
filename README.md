@@ -1,6 +1,6 @@
 # InsAct 🌍
 
-> AI-powered storytelling platform that connects real-world problems with startup innovations, research breakthroughs, and funding opportunities to reveal actionable solutions and market gaps.
+> AI research engine that maps real-world problems to existing solutions and identifies innovation opportunities.
 
 ## What is InsAct?
 
