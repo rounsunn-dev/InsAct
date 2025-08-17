@@ -4,11 +4,11 @@
 
 ## What is InsAct?
 
-InsAct transforms fragmented information across problems, startups, research, and funding into coherent narratives that help users discover meaningful project opportunities. Whether you're a student seeking impactful project ideas, an innovator identifying market gaps, or a researcher exploring commercialization paths, InsAct weaves the story that connects inspiration to action.
+InsAct transforms fragmented information across problems, startups solutions, and research, into coherent narratives that help users discover meaningful project opportunities. Whether you're a student seeking impactful project ideas, an innovator identifying market gaps, or a researcher exploring commercialization paths, InsAct weaves the story that connects inspiration to action.
 
 ## Key Features
 
-- 🔍 **Smart Search** - Explore problems, startups, research, and funding from any entry point
+- 🔍 **Smart Search** - Explore problems, startups, and research from any entry point
 - 🧠 **AI Story Engine** - Generates connected narratives across all domains
 - 💡 **Gap Analysis** - Identifies opportunities and unmet needs in the market
 - 🛠️ **Solution Suggestions** - Provides actionable project ideas with required skillsets
@@ -21,9 +21,9 @@ Entry Point → AI Story Weaving → Gap Analysis → Solution Suggestions
 ```
 
 1. **Start Anywhere** - Search for a problem or explore curated categories
-2. **Get the Full Story** - AI connects related startups, research, and funding trends
+2. **Get the Full Story** - AI connects related startups, research, and identifies solution gaps
 3. **Discover Opportunities** - Identify gaps and unmet needs in current solutions
-4. **Take Action** - Receive specific project ideas matched to your skills and goals
+4. **Take Action** - Filter specific project ideas matched to your skills and goals
 
 ## Tech Stack
 
@@ -71,12 +71,12 @@ InsAct/
 
 **For Innovators:**
 - Identify gaps in existing solutions and market opportunities
-- Understand the research landscape and funding trends
+- Understand the research landscape and solution patterns
 - Generate validated business ideas with technical feasibility
 
 **For Researchers:**
 - Discover commercialization paths for academic work
-- Connect with relevant startups and funding opportunities
+- Connect with relevant startups opportunities
 - Bridge the gap between research and practical applications
 
 ## Documentation
